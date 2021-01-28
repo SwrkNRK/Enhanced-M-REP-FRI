@@ -1,5 +1,5 @@
 # Enhanced-MREP-FRI
-Enhanced MREP is fast reroute mechanism implementet in OMNeT++.
+Enhanced MREP is fast reroute mechanism implemented in OMNeT++.
 This repository contains source files which contains addition algorithm from MREP.
 The modified files were: PIMDM, IPv4, OSPFRouting.
 Besides source files repository contains topology on which was mechanism tested on.
